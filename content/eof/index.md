@@ -3,8 +3,8 @@ emoji: ⌨️
 title: EOF
 date: '2022-01-27 23:08:00'
 author: JaeseokWoo
-tags: C++
-categories: C++
+tags: CPP
+categories: CPP
 ---
 
 # EOF
