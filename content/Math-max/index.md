@@ -58,14 +58,14 @@ const max = arr.reduce(function(a, b) {
 });
 ```
 
-1. spread operator 사용
+2. spread operator 사용
 
 ```jsx
 const arr = [1, 2, 3];
 const max = Math.max(...arr);
 ```
 
-1. Function.prototpye.apply() 사용
+3. Function.prototpye.apply() 사용
 
 ```jsx
 function getMaxOfArray(numArray) {
