@@ -24,7 +24,7 @@ str.toUpperCase()
 
 `TypeError`
 
-`[Function.prototype.call()](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/call)` 등을 사용해 `null`이나 `undefined`에서 호출 시.
+`Function.prototype.call()` 등을 사용해 `null`이나 `undefined`에서 호출 시.
 
 ## 예제
 
