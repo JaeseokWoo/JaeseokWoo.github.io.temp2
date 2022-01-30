@@ -32,5 +32,8 @@ c++에서 int를 string으로 변경하는 함수입니다.
 to_string 함수는 숫자 자료형의 데이터를 안전하게 스트링 자료형으로 변경하도록 하는 함수입니다.
 
 함수 오버로딩(overloading)을 통해 하나의 함수명에 다른 매개변수가 올 수 있습니다.
+# 참조
+[[C++] to_string 함수에 대해서 (int to string) (tistory.com)](https://blockdmask.tistory.com/334)
+
 ```toc
 ```
