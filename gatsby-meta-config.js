@@ -81,7 +81,6 @@ module.exports = {
         title: '온라인 공동 구매 플랫폼(sajagachi)',
         description: '가까운 동네 주민들과 함께 공동 구매를 할 수 있도록 연결해주는 서비스',
         techStack: ['React', 'TypeScript', 'Node.js', 'MySQL', 'Socket.IO'],
-        thumbnailUrl: 'blog.png',
         links: {
           github: 'https://github.com/boostcampwm-2021/WEB19-sajagachi',
         },
