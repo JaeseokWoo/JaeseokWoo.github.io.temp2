@@ -79,10 +79,11 @@ module.exports = {
       // ========================================================
       {
         title: '온라인 공동 구매 플랫폼(sajagachi)',
-        description: '가까운 동네 주민들과 함께 공동 구매를 할 수 있도록 연결해주는 서비스',
+        description: 'sajagachi는 부스트캠프 웹·모바일 6기 멤버십 그룹 프로젝트에서 진행한 프로젝트로 다른 사람들과 협업하면서 프로젝트를 기획, 설계, 구현, 배포를 진행한 프로젝트입니다. 실제로 1000만개의 데이터를 직접 넣고 쿼리 시간을 측정하면서 쿼리 성능을 기존 쿼리보다 약 250% 향상시켰습니다. Intersection Observer을 사용하여 메인 페이지의 게시글 조회와 채팅 페이지에 무한 스크롤과 API 구현을 맡았습니다. 게시글 상세 페이지 UI와 API, LinkPreview 구현을 맡았습니다.',
         techStack: ['React', 'TypeScript', 'Node.js', 'MySQL', 'Socket.IO'],
         links: {
           github: 'https://github.com/boostcampwm-2021/WEB19-sajagachi',
+          demo: 'https://www.youtube.com/watch?v=U4Dg0txMzIA&t=5s'
         },
       },
     ],
