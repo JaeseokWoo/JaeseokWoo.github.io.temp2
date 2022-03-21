@@ -7,8 +7,6 @@ tags: JavaScript
 categories: JavaScript
 ---
 
-# Number.prototype.toString()
-
 알고리즘 문제를 풀던 중 진법을 바꿔야하는 문제가 있었고, JavaScript의 Number 객체의 toString() 메소드를 이용하여 쉽게 진법을 바꾸는 방법을 알게 되었습니다.
 
 ## Number.prototype.toString() 이란?
